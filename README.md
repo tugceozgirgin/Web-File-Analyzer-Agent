@@ -221,26 +221,23 @@ The Streamlit app will be available at **http://localhost:8501**.
 
 ## 📸 Screenshots
 
-### Main Interface — Filter Expander & Chat
-![Main Interface](docs/screenshots/main_interface.png)
+### Category-Based Search
+![Category Based Search](docs/screenshots/category%20based%20search.png)
 
-### Human-in-the-Loop Review — Accept or Reject
-![Human Review](docs/screenshots/human_review.png)
+### Human-in-the-Loop Review — File Structure Output
+![Human Review](docs/screenshots/file%20structure%20human%20in%20the%20loop%20output.png)
 
-### Rejected Analysis — Feedback & Re-analysis
-![Rejected Feedback](docs/screenshots/rejected_feedback.png)
+### Rejected Analysis — Re-analysis After Feedback
+![Rejected Feedback](docs/screenshots/file%20structure%20human%20in%20the%20loop%20output-after%20feedback.png)
 
-### File Summaries — After Accept
-![File Summaries](docs/screenshots/file_summaries.png)
-
-### Cache Hit — Instant Page Load from SQLite
-![Cache Hit](docs/screenshots/cache_hit.png)
+### Human-in-the-Loop — Accept / Reject Flow
+![Human in the Loop](docs/screenshots/file%20structure%20human%20in%20the%20loop.png)
 
 ### Cache Sidebar — Stored Items & Hit/Miss Stats
-![Cache Sidebar](docs/screenshots/cache_sidebar.png)
+![Cache Sidebar](docs/screenshots/cache%20stats%20after%20repeating%20request.png)
 
 ### Error Handling — Unreachable URL, Irrelevant Query, No Files Found
-![Error Handling](docs/screenshots/error_handling.png)
+![Error Handling](docs/screenshots/error%20handling.png)
 
 ---
 
