@@ -221,17 +221,20 @@ The Streamlit app will be available at **http://localhost:8501**.
 
 ## 📸 Screenshots
 
+### Time-Period /File Type Compined Filter Search
+![Combined Query Search](docs/screenshots/combined_query.png)
+
 ### Category-Based Search
 ![Category Based Search](docs/screenshots/category%20based%20search.png)
+
+### Human-in-the-Loop — Accept / Reject Flow
+![Human in the Loop](docs/screenshots/file%20structure%20human%20in%20the%20loop.png)
 
 ### Human-in-the-Loop Review — File Structure Output
 ![Human Review](docs/screenshots/file%20structure%20human%20in%20the%20loop%20output.png)
 
 ### Rejected Analysis — Re-analysis After Feedback
 ![Rejected Feedback](docs/screenshots/file%20structure%20human%20in%20the%20loop%20output-after%20feedback.png)
-
-### Human-in-the-Loop — Accept / Reject Flow
-![Human in the Loop](docs/screenshots/file%20structure%20human%20in%20the%20loop.png)
 
 ### Cache Sidebar — Stored Items & Hit/Miss Stats
 ![Cache Sidebar](docs/screenshots/cache%20stats%20after%20repeating%20request.png)
