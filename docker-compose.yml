@@ -1,0 +1,16 @@
+services:
+  web-app:
+    build:
+      context: .
+      dockerfile: src/Dockerfile
+    ports:
+      - "8501:8501"
+    env_file:
+      - .env
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+      - cache-data:/app/cache
+    restart: unless-stopped
+
+volumes:
+  cache-data:
